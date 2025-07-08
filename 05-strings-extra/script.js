@@ -12,7 +12,7 @@ console.log(nickname);
 
 const luckyNumber = 37;
 const phrase = 'Non sei fortunato!';
-const isCodingFun = 1;
+const isCodingFun = true;
 
 console.log(luckyNumber);
 console.log(phrase);

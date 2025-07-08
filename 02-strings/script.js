@@ -11,7 +11,7 @@ console.log(name);
 // Stampa tutti i valori nella console.
 const number = 16
 const text = 'gatto';
-var bool = 1;
+var bool = true;
 
 console.log(number);
 console.log(text);
